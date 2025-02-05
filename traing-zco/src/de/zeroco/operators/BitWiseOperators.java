@@ -8,6 +8,7 @@ public class BitWiseOperators {
 		System.out.println(leftShiftBitWiseOperator(6));
 		System.out.println(rightShiftBitWiseOperator(9));
 		System.out.println("hi hello, i am 2nd");
+		System.out.println("i am sample for pull erquest");
 	}
 	
 	public static int andBitWiseOperator(int firstNum, int secondNum) {
