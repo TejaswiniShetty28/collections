@@ -8,6 +8,7 @@ public class ArithmeticOperators {
 		System.out.println(multiplicationOfTwoNumbers(11, 11));
 		System.out.println(divisionOfTwoNumbers(190, 10));
 		System.out.println("hi");
+		System.out.println("hi");
 	}
 	
 	public static int sumOfTwoNumbers(int firstNum, int secondNum) {
