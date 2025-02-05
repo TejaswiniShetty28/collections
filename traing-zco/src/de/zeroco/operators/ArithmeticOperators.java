@@ -10,8 +10,8 @@ public class ArithmeticOperators {
 		System.out.println("hi");
 	}
 	
-	public static int sumOfTwoNumbers(int firstNum, int secondNum) {
-		return firstNum + secondNum;		
+	public static int sumOfTwoNumbers(int firstNumber, int secondNum) {
+		return firstNumber + secondNum;		
 	}
 	
 	public static int susbstractionOfTwoNumbers(int firstNum, int secondNum) {
