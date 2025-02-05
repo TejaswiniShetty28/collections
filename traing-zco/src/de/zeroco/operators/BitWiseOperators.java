@@ -10,6 +10,7 @@ public class BitWiseOperators {
 		System.out.println("hi hello, i am 2nd");
 		System.out.println("i am sample for pull erquest");
 		System.out.println("i am again a sample");
+		System.out.println(".......");
 	}
 	
 	public static int andBitWiseOperator(int firstNum, int secondNum) {
